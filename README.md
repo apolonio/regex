@@ -26,11 +26,17 @@ Quais são os vários métodos de Expressões Regulares?
 O pacote ‘re’ fornece múltiplos métodos para rodar queries numa string. Aqui segue os métodos mais comumente usados, os quais iremos discutir:
 
 re.match()
+
 re.search()
+
 re.findall()
+
 re.split()
+
 re.sub()
+
 re.compile()
+
 
 
 
